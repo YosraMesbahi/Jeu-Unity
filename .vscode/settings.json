@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SAE-402.slnx"
+    "dotnet.defaultSolution": "SAE402.slnx"
 }
