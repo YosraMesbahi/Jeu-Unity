@@ -8,4 +8,3 @@ public class HitBlock : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 }
- 
